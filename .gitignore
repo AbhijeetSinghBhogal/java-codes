@@ -1,0 +1,7 @@
+
+XmlParser/Individual_Elements/
+*.class
+XmlParser2/artifactory.xml
+XmlParser2/external-profile.xml
+XmlParser2/former-network.xml
+XmlParser3/credentials.xml

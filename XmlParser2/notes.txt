@@ -1,0 +1,9 @@
+Under the purview of Shawn to help out Christian with SCA scanning for former network assets.
+
+Script needed to parse the settings.xml file and output the required data in another XML file.
+
+Script needs to accomodate other pkg managers as well besides Maven, like NPM, Gradle, etc.
+
+McGinn asked me to try to implement separate try-catch blocks while extracting each element. Tried doing that but getting few errors. That's something that can be fixed later. The script works right now as is.
+
+Comments get extracted as well if they are inside the element. Otherwise not.
